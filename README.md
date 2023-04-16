@@ -65,4 +65,11 @@ Linux terminal (GitBash) commands
 
 ![18](https://user-images.githubusercontent.com/130400251/232341863-db4f56f0-5e4a-4117-b77d-abba109eef1e.png)
 
+19) Просмотреть содержимое длинного файла (команда less) изучите как она работает
+
+![19](https://user-images.githubusercontent.com/130400251/232342036-51f0b381-7f1b-4044-a397-2afc9ad0ebf8.png)
+
+20) Вывести дату и время
+
+![20](https://user-images.githubusercontent.com/130400251/232342290-6a71384d-5464-486d-bba6-cbdf16340891.png)
 
