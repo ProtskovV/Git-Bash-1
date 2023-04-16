@@ -80,3 +80,5 @@ http://162.55.220.72:5005/terminal-hw-request
 ![21](https://user-images.githubusercontent.com/130400251/232342777-dfe3e653-cb7c-4859-84be-ec59177cabab.png)
 
 2) Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13
+
+![22](https://user-images.githubusercontent.com/130400251/232345252-73838684-44e3-486b-a005-3c19d1c4b85d.png)
