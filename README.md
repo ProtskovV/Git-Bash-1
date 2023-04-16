@@ -73,3 +73,10 @@ Linux terminal (GitBash) commands
 
 ![20](https://user-images.githubusercontent.com/130400251/232342290-6a71384d-5464-486d-bba6-cbdf16340891.png)
 
+Задания со *
+1) Отправить http запрос на сервер.
+http://162.55.220.72:5005/terminal-hw-request
+
+![21](https://user-images.githubusercontent.com/130400251/232342777-dfe3e653-cb7c-4859-84be-ec59177cabab.png)
+
+2) Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13
