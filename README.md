@@ -31,9 +31,18 @@ Linux terminal (GitBash) commands
 
 ![8](https://user-images.githubusercontent.com/130400251/232339050-45a2bf3f-41dc-4365-a18d-2e41d6d7d8a3.png)
 
-9) + Открыть любой txt файл
-10) + написать туда что-нибудь, любой текст.
+9) Открыть любой txt файл
+10) Написать туда что-нибудь, любой текст
+11) Сохранить и выйти
 
 ![9](https://user-images.githubusercontent.com/130400251/232339225-583a8981-52e9-45ac-9c49-374e7e629370.png)
+
+12) Выйти из папки на уровень выше
+
+![12](https://user-images.githubusercontent.com/130400251/232339501-3f7b3ae3-add9-4fc8-99b1-9e6e2df042ca.png)
+
+13) Переместить любые 2 файла, которые вы создали, в любую другую папку
+
+![13](https://user-images.githubusercontent.com/130400251/232339705-9da76f64-94a1-49cb-8f19-3f7fd70bf214.png)
 
 
