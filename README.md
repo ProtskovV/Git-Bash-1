@@ -45,4 +45,10 @@ Linux terminal (GitBash) commands
 
 ![13](https://user-images.githubusercontent.com/130400251/232339705-9da76f64-94a1-49cb-8f19-3f7fd70bf214.png)
 
+14) Cкопировать любые 2 файла, которые вы создали, в любую другую папку
 
+![14](https://user-images.githubusercontent.com/130400251/232339847-b689ad90-49ec-471a-a912-3666822b21e1.png)
+
+15) Найти файл по имени
+
+![15](https://user-images.githubusercontent.com/130400251/232340189-01980fdc-8f97-4b31-9b56-d0ca5c2fd0f0.png)
