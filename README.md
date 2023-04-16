@@ -52,3 +52,17 @@ Linux terminal (GitBash) commands
 15) Найти файл по имени
 
 ![15](https://user-images.githubusercontent.com/130400251/232340189-01980fdc-8f97-4b31-9b56-d0ca5c2fd0f0.png)
+
+16) Просмотреть содержимое в реальном времени (команда grep) изучите как она работает
+
+![16](https://user-images.githubusercontent.com/130400251/232341571-984ea642-a8bb-4cfc-8a70-ed858f9e682c.png)
+
+17) Вывести несколько первых строк из текстового файла
+
+![17](https://user-images.githubusercontent.com/130400251/232341807-476ff426-d4e0-4f1e-ac02-999b167a60ea.png)
+
+18) Вывести несколько последних строк из текстового файла
+
+![18](https://user-images.githubusercontent.com/130400251/232341863-db4f56f0-5e4a-4117-b77d-abba109eef1e.png)
+
+
